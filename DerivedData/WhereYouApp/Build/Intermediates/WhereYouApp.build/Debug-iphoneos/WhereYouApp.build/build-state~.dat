@@ -1,0 +1,963 @@
+TWhereYouApp
+v5
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ResourceRules.plist
+cProcessInfoPlistFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Info.plist" WhereYouApp/WhereYouApp-Info.plist
+cProcessPCH "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch.pth" WhereYouApp/WhereYouApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/main.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppDelegate.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppLocationManager.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomPin.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomPin.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleMapSearchObject.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleResultPin.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/MyLocationObject.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/PhoneBook.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/PhoneBook.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/ViewController.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/ViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/YahooLocalSearchObject.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/LocationTableViewCell.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/InfoViewController.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/UIView+AlertAnimations.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomAlertView.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp" normal armv7
+cGenerateDSYMFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app.dSYM" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp"
+cCopyStringsFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/en.lproj/InfoPlist.strings" WhereYouApp/en.lproj/InfoPlist.strings
+cCompileXIB "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../ViewController.xib"
+cCompileXIB "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib"
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppIcon.png" WhereYou@ppIcon.png
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default@2x.png" Default@2x.png
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/clear.png" WhereYouAppIcons/clear.png
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/directions.png" WhereYouAppIcons/directions.png
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/share.png" WhereYouAppIcons/share.png
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/showUser.png" WhereYouAppIcons/showUser.png
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/call.png" WhereYouAppIcons/call.png
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/calloutShare.png" WhereYouAppIcons/calloutShare.png
+cCompileXIB "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib"
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppSmallIcon.png" WhereYou@ppSmallIcon.png
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default.png" Default.png
+cCpResource WhereYouApp/Settings.bundle DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Settings.bundle
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/behind_alert_view.png" WhereYouAppIcons/behind_alert_view.png
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_background.png" WhereYouAppIcons/alert_background.png
+cCompileXIB "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib"
+cCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_button.png" WhereYouAppIcons/alert_button.png
+cProcessProductPackaging "/Users/Gabriel/Library/MobileDevice/Provisioning Profiles/3FF35737-3966-4E1A-A041-2D7D69750654.mobileprovision" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/embedded.mobileprovision"
+cProcessProductPackaging "/Users/Gabriel/Library/MobileDevice/Provisioning Profiles/3FF35737-3966-4E1A-A041-2D7D69750654.mobileprovision" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/embedded.mobileprovision"
+cTouch "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"
+cProcessProductPackaging "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/WhereYouApp.entitlements" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp.xcent"
+cCodeSign "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"
+cValidate "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk
+c000000004F453DF20000000000000110
+t1329937906
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+c000000004FCE921100000000000001E5
+t1338937873
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004FCE921300000000001141A0
+t1338937875
+s1130912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004FCE9213000000000012E9D0
+t1338937875
+s1239504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004FCE921400000000003AE430
+t1338937876
+s3859504
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004FCE9214000000000007C770
+t1338937876
+s509808
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004FCE9216000000000052C940
+t1338937878
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004FCE921500000000000B1AA0
+t1338937877
+s727712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004FCE921500000000000B0160
+t1338937877
+s721248
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004FCE92160000000000175AA0
+t1338937878
+s1530528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004FCE92180000000000798EA0
+t1338937880
+s7966368
+
+N/Users/Gabriel/Library/MobileDevice/Provisioning Profiles/3FF35737-3966-4E1A-A041-2D7D69750654.mobileprovision
+c000000004FD15BAF0000000000001C99
+t1339120559
+s7321
+
+N/Volumes/NO NAME/iOS/WhereYouApp/Default.png
+c000000004F9582260000000000082070
+t1335198246
+s532592
+
+N/Volumes/NO NAME/iOS/WhereYouApp/Default@2x.png
+c000000004F947FD800000000000E45FC
+t1335132120
+s935420
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch.pth
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppLocationManager.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomAlertView.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomPin.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleMapSearchObject.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleResultPin.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/InfoViewController.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/LocationTableViewCell.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/MyLocationObject.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/PhoneBook.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/UIView+AlertAnimations.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/WhereYouApp.LinkFileList
+c000000004FD15F9E0000000000000927
+t1339121566
+s2343
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/YahooLocalSearchObject.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp.xcent
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app.dSYM
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/CustomAlertView.nib
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default@2x.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Info.plist
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/InfoViewController.nib
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/LocationTableViewCell.nib
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/PkgInfo
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ResourceRules.plist
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Settings.bundle
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ViewController.nib
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppIcon.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppSmallIcon.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_background.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_button.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/behind_alert_view.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/call.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/calloutShare.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/clear.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/directions.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/embedded.mobileprovision
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/share.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/showUser.png
+t2
+s0
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYou@ppIcon.png
+c000000004F936B8E000000000000CCF6
+t1335061390
+s52470
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYou@ppSmallIcon.png
+c000000004F9581820000000000004620
+t1335198082
+s17952
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m
+c000000004FBDAAAE00000000000007FE
+t1337830062
+s2046
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../ViewController.xib
+c000000004FB954BC000000000000652E
+t1337545916
+s25902
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppDelegate.m
+c000000004FB909BE0000000000000B1D
+t1337526718
+s2845
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m
+c000000004F960C7E0000000000000871
+t1335233662
+s2161
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib
+c000000004FC561E80000000000005DB3
+t1338335720
+s23987
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomPin.m
+c000000004F5D3C9800000000000001BD
+t1331510424
+s445
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m
+c000000004F89A6E600000000000017BC
+t1334421222
+s6076
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m
+c000000004F898C7800000000000001C7
+t1334414456
+s455
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.m
+c000000004F955E9E00000000000005AA
+t1335189150
+s1450
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib
+c000000004F955D28000000000000837E
+t1335188776
+s33662
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m
+c000000004F8DFD60000000000000027B
+t1334705504
+s635
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib
+c000000004F8F18480000000000003A7C
+t1334777928
+s14972
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m
+c000000004F7D0056000000000000012F
+t1333592150
+s303
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/PhoneBook.m
+c000000004FBD4C940000000000000A5F
+t1337805972
+s2655
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/Settings.bundle
+c000000004FB909BE0000000000004000
+t1337526718
+s16384
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m
+c000000004FBDAD68000000000000085F
+t1337830760
+s2143
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/ViewController.m
+c000000004FC56BB60000000000005EC3
+t1338338230
+s24259
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/WhereYouApp-Prefix.pch
+c000000004F8DC87C0000000000000145
+t1334691964
+s325
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/WhereYouApp.entitlements
+c000000004F932B380000000000000133
+t1335044920
+s307
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m
+c000000004F88C8C60000000000001576
+t1334364358
+s5494
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/en.lproj/InfoPlist.strings
+c000000004F8DC87C000000000000002D
+t1334691964
+s45
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/main.m
+c000000004F8DC87C000000000000015D
+t1334691964
+s349
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/alert_background.png
+c000000004FBC3928000000000000238D
+t1337735464
+s9101
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/alert_button.png
+c000000004FBC3932000000000000143C
+t1337735474
+s5180
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/behind_alert_view.png
+c000000004FBC38EE00000000000057C9
+t1337735406
+s22473
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/call.png
+c000000004F86DE7E00000000000000C7
+t1334238846
+s199
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/calloutShare.png
+c000000004F86DE800000000000000190
+t1334238848
+s400
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/clear.png
+c000000004F86DE7E000000000000018B
+t1334238846
+s395
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/directions.png
+c000000004F86DE7C00000000000001E4
+t1334238844
+s484
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/share.png
+c000000004F86DE7E00000000000001D8
+t1334238846
+s472
+
+N/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/showUser.png
+c000000004F86DE800000000000000139
+t1334238848
+s313
+
+NWhereYouApp/WhereYouApp-Info.plist
+c000000004FC5687E000000000000067D
+t1338337406
+s1661
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppDelegate.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomPin.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/PhoneBook.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/ViewController.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m"
+r0
+
+CBuild AST from "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies09dfff1d9781b541^efae3f1e9781b541^---0#1#0#--18"Check dependencies36"A1CE0B3F-8E80-42B0-978D-17437DBD2EE2-
+
+CCodeSign "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"
+s360814371.293867
+e360814371.638249
+r1
+xCodeSign
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"CodeSign DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app0d534b239781b541^d463a3239781b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/0000000000000000^933"CodeSign DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign db68fe5c1e38d715f0d52f9b6facef48ad0da42f "--resource-rules=/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ResourceRules.plist" --entitlements "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp.xcent" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"36"90E7EFFF-4B83-48A0-8C51-DB1D124E8234-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppDelegate.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppDelegate.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814367.553277
+e360814367.830540
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppDelegate.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppDelegate.m36cb8d1f9781b541^459ed41f9781b541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/AppDelegate.m0000000000000000^3545"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppDelegate.o WhereYouApp/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppDelegate.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppDelegate.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppDelegate.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppDelegate.o"36"672DBF4A-F905-40C1-A5EE-C22F9FD351C3-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppLocationManager.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814367.736411
+e360814367.827690
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppLocationManager.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m39b4bc1f9781b541^61e2d31f9781b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m0000000000000000^3587"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppLocationManager.o WhereYouApp/AppLocationManager.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppLocationManager.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppLocationManager.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/AppLocationManager.o"36"86882072-763C-43A1-BAE8-7CDD3B9B697F-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomAlertView.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814368.462787
+e360814368.598233
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomAlertView.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m93a976209781b541^c02499209781b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m0000000000000000^3575"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomAlertView.o WhereYouApp/../CustomAlertView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomAlertView.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomAlertView.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomAlertView.o"36"2DBE1225-DF55-43E4-A8EC-4D0BF0FA6CC2-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomPin.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomPin.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814367.829079
+e360814367.915257
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomPin.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomPin.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomPin.m0d6dd41f9781b541^904dea1f9781b541^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/CustomPin.m0000000000000000^3533"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomPin.o WhereYouApp/CustomPin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomPin.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomPin.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomPin.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/CustomPin.o"36"1F9B9146-11CF-4CDC-8829-E678445E35C8-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleMapSearchObject.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814367.832281
+e360814368.014740
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleMapSearchObject.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m323dd51f9781b541^26c503209781b541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m0000000000000000^3605"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleMapSearchObject.o WhereYouApp/GoogleMapSearchObject.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleMapSearchObject.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleMapSearchObject.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleMapSearchObject.o"36"3F57A2A3-86F5-44BE-87A1-4815FADBC94F-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleResultPin.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814367.916550
+e360814368.023496
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleResultPin.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m2dd0ea1f9781b541^76fa05209781b541^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m0000000000000000^3569"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleResultPin.o WhereYouApp/GoogleResultPin.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleResultPin.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleResultPin.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/GoogleResultPin.o"36"32E2A091-1B84-45DF-A9F5-A674F8EB890E-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/InfoViewController.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814368.338732
+e360814368.436769
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/InfoViewController.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.m3fe356209781b541^b5e26f209781b541^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.m0000000000000000^3587"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/InfoViewController.o WhereYouApp/InfoViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/InfoViewController.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/InfoViewController.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/InfoViewController.o"36"50072980-8B16-4C0D-89DA-E9562DAF6849-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/LocationTableViewCell.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814368.249623
+e360814368.337389
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/LocationTableViewCell.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m7b1640209781b541^355e56209781b541^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m0000000000000000^3605"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/LocationTableViewCell.o WhereYouApp/LocationTableViewCell.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/LocationTableViewCell.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/LocationTableViewCell.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/LocationTableViewCell.o"36"8398DF92-FB77-47F0-84E9-E1EB0C7ECF26-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/MyLocationObject.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814368.016002
+e360814368.088040
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/MyLocationObject.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/MyLocationObject.mbb4504209781b541^be8816209781b541^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m0000000000000000^3575"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/MyLocationObject.o WhereYouApp/MyLocationObject.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/MyLocationObject.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/MyLocationObject.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/MyLocationObject.o"36"0F77FEDD-6321-436E-BD46-056F97C2C709-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/PhoneBook.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/PhoneBook.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814368.024941
+e360814368.090733
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/PhoneBook.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/PhoneBook.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/PhoneBook.m149406209781b541^d23917209781b541^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/PhoneBook.m0000000000000000^3533"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/PhoneBook.o WhereYouApp/PhoneBook.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/PhoneBook.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/PhoneBook.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/PhoneBook.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/PhoneBook.o"36"CBF7702F-6CFD-4FEF-A359-475BF1769356-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/UIView+AlertAnimations.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814368.438017
+e360814368.553277
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/UIView+AlertAnimations.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m0e4e70209781b541^a5a28d209781b541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m0000000000000000^3611"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/UIView+AlertAnimations.o WhereYouApp/UIView+AlertAnimations.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/UIView+AlertAnimations.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/UIView+AlertAnimations.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/UIView+AlertAnimations.o"36"1180C19D-D9BF-4A8A-8CF8-4F42EAEAEF77-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/ViewController.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/ViewController.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814368.089375
+e360814368.461479
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/ViewController.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/ViewController.md40a17209781b541^602276209781b541^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/ViewController.m0000000000000000^3563"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/ViewController.o WhereYouApp/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/ViewController.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/ViewController.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/ViewController.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/ViewController.o"36"2F2F2F65-88E0-41EF-9AD4-549F658C5DAB-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/YahooLocalSearchObject.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814368.092487
+e360814368.248345
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/YahooLocalSearchObject.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m90db17209781b541^59a63f209781b541^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m0000000000000000^3611"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/YahooLocalSearchObject.o WhereYouApp/YahooLocalSearchObject.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/YahooLocalSearchObject.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/YahooLocalSearchObject.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/YahooLocalSearchObject.o"36"FFD93F91-8FD6-4480-9D65-752BF90E1903-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/main.o "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/main.m" normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814367.552793
+e360814367.735153
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/main.o
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/main.m15ac8d1f9781b541^4146bc1f9781b541^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/main.m0000000000000000^3503"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/main.o WhereYouApp/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -include "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/main.d" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/main.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/main.m" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/main.o"36"F142E9D9-F8B2-4FA5-832B-99CA4E0A40C1-
+
+CCompileXIB "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../ViewController.xib"
+s360814368.773285
+e360814370.339919
+r1
+xCompileXIB
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../ViewController.xib
+o2012-06-07 22:12:49.860 Interface Builder Cocoa Touch Tool[1357:13203] CFPreferences: user home directory at file://localhost/Users/Gabriel/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o2012-06-07 22:12:50.331 Interface Builder Cocoa Touch Tool[1357:11903] __GEORegisterNetworkDefaults_block_invoke_0: Could not connect to geod on com.apple.geod.defaults
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compiling /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../ViewController.xib700bc6209781b541^9b0457229781b541^-411"2012-06-07 22:12:49.860 Interface Builder Cocoa Touch Tool[1357:13203] CFPreferences: user home directory at file://localhost/Users/Gabriel/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.2012-06-07 22:12:50.331 Interface Builder Cocoa Touch Tool[1357:11903] __GEORegisterNetworkDefaults_block_invoke_0: Could not connect to geod on com.apple.geod.defaults-0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/../ViewController.xib0000000000000000^853"CompileXIB WhereYouApp/../ViewController.xib    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ViewController.nib" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/../ViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"A0305A14-86EB-4CA9-B720-C42C9607A345-
+
+CCompileXIB "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib"
+s360814371.016108
+e360814371.084764
+r1
+xCompileXIB
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compiling /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib7a3904239781b541^92b215239781b541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib0000000000000000^850"CompileXIB WhereYouApp/CustomAlertView.xib    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/CustomAlertView.nib" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"280C7394-7453-448C-A4DF-9022CAE74883-
+
+CCompileXIB "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib"
+s360814370.644846
+e360814370.774382
+r1
+xCompileXIB
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compiling /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.xiba033a5229781b541^d53dc6229781b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib0000000000000000^859"CompileXIB WhereYouApp/InfoViewController.xib    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/InfoViewController.nib" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"1C66B489-3ACB-46CA-A405-2AE83AA1CFD6-
+
+CCompileXIB "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib"
+s360814368.778253
+e360814370.099168
+r1
+xCompileXIB
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib
+o2012-06-07 22:12:49.851 Interface Builder Cocoa Touch Tool[1356:13303] CFPreferences: user home directory at file://localhost/Users/Gabriel/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compiling /Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xibbd55c7209781b541^d06219229781b541^-242"2012-06-07 22:12:49.851 Interface Builder Cocoa Touch Tool[1356:13303] CFPreferences: user home directory at file://localhost/Users/Gabriel/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib0000000000000000^868"CompileXIB WhereYouApp/LocationTableViewCell.xib    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/LocationTableViewCell.nib" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk36"DAFDD3A9-00E0-4CEE-8EA9-94A67F2770E2-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default.png" Default.png
+s360814370.722708
+e360814370.759919
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default.png
+xDefault.png
+olibpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default.png Default.png761ab9229781b541^ad88c2229781b541^-143"libpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.-0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/Default.png0000000000000000^695"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default.png Default.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/Default.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default.png"36"C4CF8CA4-99AB-4688-A878-FEEC3387C6BD-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default@2x.png" Default@2x.png
+s360814370.184089
+e360814370.223884
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default@2x.png
+xDefault@2x.png
+olibpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default@2x.png Default@2x.png9f392f229781b541^f04f39229781b541^-143"libpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.-0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/Default@2x.png0000000000000000^711"CopyPNGFile "DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default@2x.png" "Default@2x.png"    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/Default@2x.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Default@2x.png"36"00BE4BAA-E727-4A52-AE27-5B556EDA19A2-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppIcon.png" WhereYou@ppIcon.png
+s360814370.100568
+e360814370.182774
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppIcon.png
+xWhereYou@ppIcon.png
+olibpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppIcon.png WhereYou@ppIcon.pngb6d819229781b541^6ad92e229781b541^-143"libpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.-0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYou@ppIcon.png0000000000000000^731"CopyPNGFile "DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppIcon.png" "WhereYou@ppIcon.png"    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYou@ppIcon.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppIcon.png"36"A04C50C7-AE4B-4520-B1F0-CF611421E28A-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppSmallIcon.png" WhereYou@ppSmallIcon.png
+s360814370.687726
+e360814370.721363
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppSmallIcon.png
+xWhereYou@ppSmallIcon.png
+olibpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppSmallIcon.png WhereYou@ppSmallIcon.png3127b0229781b541^0dabb8229781b541^-143"libpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.-0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYou@ppSmallIcon.png0000000000000000^751"CopyPNGFile "DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppSmallIcon.png" "WhereYou@ppSmallIcon.png"    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYou@ppSmallIcon.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYou@ppSmallIcon.png"36"CE9D496B-B3B2-40C8-B715-5557A3E8EDE9-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_background.png" WhereYouAppIcons/alert_background.png
+s360814370.775700
+e360814371.014834
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_background.png
+xWhereYouAppIcons/alert_background.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_background.png WhereYouAppIcons/alert_background.pngfbacc6229781b541^71cb03239781b541^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouAppIcons/alert_background.png0000000000000000^765"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_background.png WhereYouAppIcons/alert_background.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/alert_background.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_background.png"36"245ACA26-D6B9-49D1-AA1D-ABEB29EF80B7-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_button.png" WhereYouAppIcons/alert_button.png
+s360814371.086056
+e360814371.132824
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_button.png
+xWhereYouAppIcons/alert_button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_button.png WhereYouAppIcons/alert_button.png4b1f16239781b541^491022239781b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouAppIcons/alert_button.png0000000000000000^749"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_button.png WhereYouAppIcons/alert_button.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/alert_button.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/alert_button.png"36"5569A528-D968-4FC2-9C86-D3BCC954617F-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/behind_alert_view.png" WhereYouAppIcons/behind_alert_view.png
+s360814370.765946
+e360814371.199696
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/behind_alert_view.png
+xWhereYouAppIcons/behind_alert_view.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/behind_alert_view.png WhereYouAppIcons/behind_alert_view.pngb62bc4229781b541^7e1e33239781b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouAppIcons/behind_alert_view.png0000000000000000^769"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/behind_alert_view.png WhereYouAppIcons/behind_alert_view.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/behind_alert_view.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/behind_alert_view.png"36"439B9053-9250-4256-A81F-3427ABE5B31D-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/call.png" WhereYouAppIcons/call.png
+s360814370.607582
+e360814370.643546
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/call.png
+xWhereYouAppIcons/call.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/call.png WhereYouAppIcons/call.png7ba29b229781b541^b6bea4229781b541^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouAppIcons/call.png0000000000000000^717"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/call.png WhereYouAppIcons/call.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/call.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/call.png"36"684A346B-1724-4555-911F-90BC00C3E363-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/calloutShare.png" WhereYouAppIcons/calloutShare.png
+s360814370.640075
+e360814370.686324
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/calloutShare.png
+xWhereYouAppIcons/calloutShare.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/calloutShare.png WhereYouAppIcons/calloutShare.png41f5a3229781b541^18b1af229781b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouAppIcons/calloutShare.png0000000000000000^749"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/calloutShare.png WhereYouAppIcons/calloutShare.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/calloutShare.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/calloutShare.png"36"9514C4F6-C076-4D2B-BA38-B5C2C17FDDC8-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/clear.png" WhereYouAppIcons/clear.png
+s360814370.225239
+e360814370.567712
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/clear.png
+xWhereYouAppIcons/clear.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/clear.png WhereYouAppIcons/clear.png58c739229781b541^b66491229781b541^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouAppIcons/clear.png0000000000000000^721"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/clear.png WhereYouAppIcons/clear.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/clear.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/clear.png"36"BD0F2116-0465-47A2-9F04-11C6EB922464-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/directions.png" WhereYouAppIcons/directions.png
+s360814370.341984
+e360814370.600370
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/directions.png
+xWhereYouAppIcons/directions.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/directions.png WhereYouAppIcons/directions.pngb5a457229781b541^b8b199229781b541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouAppIcons/directions.png0000000000000000^741"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/directions.png WhereYouAppIcons/directions.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/directions.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/directions.png"36"E1E7F2FD-652A-418F-911C-37F92BEE780D-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/share.png" WhereYouAppIcons/share.png
+s360814370.569010
+e360814370.606334
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/share.png
+xWhereYouAppIcons/share.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/share.png WhereYouAppIcons/share.pngf0c391229781b541^664e9b229781b541^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouAppIcons/share.png0000000000000000^721"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/share.png WhereYouAppIcons/share.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/share.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/share.png"36"2F12F8A4-1B59-401D-98C5-737996995133-
+
+CCopyPNGFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/showUser.png" WhereYouAppIcons/showUser.png
+s360814370.601716
+e360814370.638722
+r1
+xCopyPNGFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/showUser.png
+xWhereYouAppIcons/showUser.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/showUser.png WhereYouAppIcons/showUser.png2d229a229781b541^c382a3229781b541^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouAppIcons/showUser.png0000000000000000^733"CopyPNGFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/showUser.png WhereYouAppIcons/showUser.png    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/PrivatePlugIns/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouAppIcons/showUser.png" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/showUser.png"36"7FADA660-E27B-49A5-9930-F1966CB1F1C6-
+
+CCopyStringsFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/en.lproj/InfoPlist.strings" WhereYouApp/en.lproj/InfoPlist.strings
+s360814368.772677
+e360814368.776961
+r1
+xCopyStringsFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/en.lproj/InfoPlist.strings
+xWhereYouApp/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy WhereYouApp/en.lproj/InfoPlist.stringsdae3c5209781b541^93e3c6209781b541^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/en.lproj/InfoPlist.strings0000000000000000^628"CopyStringsFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/en.lproj/InfoPlist.strings WhereYouApp/en.lproj/InfoPlist.strings    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/en.lproj" -- WhereYouApp/en.lproj/InfoPlist.strings36"FA3A1825-84DA-46DE-A212-100F6844A460-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ResourceRules.plist
+s360814366.258365
+e360814366.265937
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist
+xDerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ResourceRules.plistbc3b421e9781b541^4014441e9781b541^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ResourceRules.plist000000000080d041^918"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ResourceRules.plist    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk/ResourceRules.plist "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"36"78B1D2DF-F050-43DD-94E2-CDA195830BE8-
+
+CCpResource WhereYouApp/Settings.bundle DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Settings.bundle
+s360814370.761220
+e360814370.764711
+r1
+xCpResource
+xWhereYouApp/Settings.bundle
+xDerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Settings.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Settings.bundle1ff6c2229781b541^d9cec3229781b541^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Settings.bundle000000000080d041^761"CpResource WhereYouApp/Settings.bundle DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Settings.bundle    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/Settings.bundle" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"36"F52C08AA-1CC8-48FC-A9C9-0EA2EF4AFF24-
+
+CGenerateDSYMFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app.dSYM" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp"
+s360814368.667742
+e360814368.764506
+r1
+xGenerateDSYMFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app.dSYM
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Generating /Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app.dSYM9609ab209781b541^28b5c3209781b541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app.dSYM000000000080d041^698"GenerateDSYMFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app.dSYM DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app.dSYM"36"CC6B9A5F-4689-4E9A-BE3F-59017F70B824-
+
+CLd "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp" normal armv7
+s360814368.605052
+e360814368.660889
+r1
+xLd
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Link /Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouAppd6029b209781b541^4d2fa9209781b541^---0#0#0#--1325"Ld DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp normal armv7    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk "-L/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" -filelist "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/Objects-normal/armv7/WhereYouApp.LinkFileList" -dead_strip -fobjc-arc -miphoneos-version-min=5.1 -framework QuartzCore -framework MessageUI -framework MapKit -framework CoreLocation -framework AddressBookUI -framework AddressBook -framework UIKit -framework Foundation -framework CoreGraphics -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/WhereYouApp"36"0EC64E46-4065-445A-B101-95562726B5C4-
+
+CProcessInfoPlistFile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Info.plist" WhereYouApp/WhereYouApp-Info.plist
+s360814366.258933
+e360814366.267286
+r1
+xProcessInfoPlistFile
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Info.plist
+xWhereYouApp/WhereYouApp-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process WhereYouApp/WhereYouApp-Info.plist075d421e9781b541^b77c441e9781b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/WhereYouApp-Info.plist0000000000000000^874"ProcessInfoPlistFile DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Info.plist WhereYouApp/WhereYouApp-Info.plist    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WhereYouApp/WhereYouApp-Info.plist -genpkginfo "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/ResourceRules.plist" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/Info.plist"36"19B283C8-AF82-4F48-9E83-32C2A6D683CD-
+
+CProcessPCH "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch.pth" WhereYouApp/WhereYouApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s360814366.275700
+e360814367.545809
+r1
+xProcessPCH
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch.pth
+xWhereYouApp/WhereYouApp-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile WhereYouApp/WhereYouApp-Prefix.pch66bf461e9781b541^6fb88b1f9781b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/WhereYouApp/WhereYouApp-Prefix.pch0000000000000000^3422"ProcessPCH DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch.pth WhereYouApp/WhereYouApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.1.sdk -Wprotocol -Wdeprecated-declarations -g -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.1 -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-generated-files.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-own-target-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-all-target-headers.hmap" -iquote "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp-project-headers.hmap" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/include" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources/armv7" "-I/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/DerivedSources" "-F/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos" --serialize-diagnostics "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch.dia" -c "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/WhereYouApp-Prefix.pch" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch.pth" -MMD -MT dependencies -MF "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-hcytufhwjheypigfxidwfkyyaaoj/WhereYouApp-Prefix.pch.d"36"188E1668-A8E5-453A-9ECF-4D38C82D14EA-
+
+CProcessPCH "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Index/PrecompiledHeaders/WhereYouApp-Prefix-bcrxoxswprmfldhglcqobvrwtzqh_ast/WhereYouApp-Prefix.pch.pth" WhereYouApp/WhereYouApp-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/Gabriel/Library/MobileDevice/Provisioning Profiles/3FF35737-3966-4E1A-A041-2D7D69750654.mobileprovision" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/embedded.mobileprovision"
+s360814371.235310
+e360814371.256663
+r1
+xProcessProductPackaging
+x/Users/Gabriel/Library/MobileDevice/Provisioning Profiles/3FF35737-3966-4E1A-A041-2D7D69750654.mobileprovision
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection231"ProcessProductPackaging "/Users/Gabriel/Library/MobileDevice/Provisioning Profiles/3FF35737-3966-4E1A-A041-2D7D69750654.mobileprovision" DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/embedded.mobileprovisionb0573c239781b541^76c441239781b541^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/embedded.mobileprovision0000000000000000^744"ProcessProductPackaging "/Users/Gabriel/Library/MobileDevice/Provisioning Profiles/3FF35737-3966-4E1A-A041-2D7D69750654.mobileprovision" DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/embedded.mobileprovision    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/Gabriel/Library/MobileDevice/Provisioning Profiles/3FF35737-3966-4E1A-A041-2D7D69750654.mobileprovision" -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/embedded.mobileprovision"36"99690F1E-EE39-4066-8D99-A6B1FC443DFA-
+
+CProcessProductPackaging "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/WhereYouApp.entitlements" "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp.xcent"
+s360814371.281093
+e360814371.285804
+r1
+xProcessProductPackaging
+x/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/WhereYouApp.entitlements
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection173"ProcessProductPackaging WhereYouApp/WhereYouApp.entitlements DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp.xcentaa0f48239781b541^412a49239781b541^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp.xcent000000000080d041^689"ProcessProductPackaging WhereYouApp/WhereYouApp.entitlements DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp.xcent    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Volumes/NO NAME/iOS/WhereYouApp/WhereYouApp/WhereYouApp.entitlements" -entitlements -format xml -o "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphoneos/WhereYouApp.build/WhereYouApp.xcent"36"810D036A-F0ED-4791-85DD-511FFEA54AC3-
+
+CTouch "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"
+s360814371.265862
+e360814371.272983
+r1
+xTouch
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Touch /Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.appa22444239781b541^37e245239781b541^---0#0#0#--433"Touch DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"36"3B112059-A4D6-460A-98D1-149AE069AA6B-
+
+CValidate "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"
+s360814371.646260
+e360814372.387388
+r1
+xValidate
+x/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Validate DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.appa088a5239781b541^672b63249781b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Volumes/NO%20NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app/0000000000000000^577"Validate DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app    cd "/Volumes/NO NAME/iOS/WhereYouApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation "/Volumes/NO NAME/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphoneos/WhereYouApp.app"36"ECA07005-AEC2-43C9-80BD-69EB83F1F3F8-
+
