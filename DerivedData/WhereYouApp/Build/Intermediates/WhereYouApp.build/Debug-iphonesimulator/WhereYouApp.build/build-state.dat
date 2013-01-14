@@ -1,0 +1,878 @@
+TWhereYouApp
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Info.plist WhereYouApp/WhereYouApp-Info.plist
+cProcessPCH /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch.pth WhereYouApp/WhereYouApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/main.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppDelegate.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppLocationManager.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomPin.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomPin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleMapSearchObject.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleResultPin.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/MyLocationObject.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/PhoneBook.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/PhoneBook.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/ViewController.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/YahooLocalSearchObject.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/LocationTableViewCell.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/InfoViewController.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/UIView+AlertAnimations.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomAlertView.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp normal i386
+cGenerateDSYMFile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app.dSYM /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp
+cCopyStringsFile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/en.lproj/InfoPlist.strings WhereYouApp/en.lproj/InfoPlist.strings
+cCompileXIB /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../ViewController.xib
+cCompileXIB /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib
+cCpResource WhereYou@ppIcon.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppIcon.png
+cCpResource Default@2x.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default@2x.png
+cCpResource WhereYouAppIcons/clear.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/clear.png
+cCpResource WhereYouAppIcons/directions.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/directions.png
+cCpResource WhereYouAppIcons/share.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/share.png
+cCpResource WhereYouAppIcons/showUser.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/showUser.png
+cCpResource WhereYouAppIcons/call.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/call.png
+cCpResource WhereYouAppIcons/calloutShare.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/calloutShare.png
+cCompileXIB /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib
+cCpResource WhereYou@ppSmallIcon.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppSmallIcon.png
+cCpResource Default.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default.png
+cCpResource WhereYouApp/Settings.bundle DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Settings.bundle
+cCpResource WhereYouAppIcons/behind_alert_view.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/behind_alert_view.png
+cCpResource WhereYouAppIcons/alert_background.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_background.png
+cCompileXIB /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib
+cCpResource WhereYouAppIcons/alert_button.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_button.png
+cTouch /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c000000005099DE030000000000000110
+t1352261123
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c00000000505D004300000000000C0EF0
+t1348272195
+s790256
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c00000000505D00440000000000193640
+t1348272196
+s1652288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000505D00450000000000228FD0
+t1348272197
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000505D0045000000000009C220
+t1348272197
+s639520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000505D004800000000003DCEF0
+t1348272200
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c00000000505D004B00000000000F5690
+t1348272203
+s1005200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c00000000505D004C00000000001144F0
+t1348272204
+s1131760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000505D004D00000000001D57A0
+t1348272205
+s1922976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000505D00500000000000AB3D60
+t1348272208
+s11222368
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/Default.png
+c000000004F9590360000000000082070
+t1335201846
+s532592
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/Default@2x.png
+c000000004F948DE800000000000E45FC
+t1335135720
+s935420
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch.pth
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppLocationManager.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomAlertView.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomPin.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleMapSearchObject.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleResultPin.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/InfoViewController.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/LocationTableViewCell.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/MyLocationObject.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/PhoneBook.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/UIView+AlertAnimations.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/WhereYouApp.LinkFileList
+c0000000050F3799300000000000009CF
+t1358133651
+s2511
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/YahooLocalSearchObject.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app.dSYM
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/CustomAlertView.nib
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default@2x.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Info.plist
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/InfoViewController.nib
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/LocationTableViewCell.nib
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/PkgInfo
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Settings.bundle
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/ViewController.nib
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppIcon.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppSmallIcon.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_background.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_button.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/behind_alert_view.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/call.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/calloutShare.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/clear.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/directions.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/share.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/showUser.png
+t2
+s0
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYou@ppIcon.png
+c000000004F93799E000000000000CCF6
+t1335064990
+s52470
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYou@ppSmallIcon.png
+c000000004F958F920000000000004620
+t1335201682
+s17952
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m
+c000000004FBDB8BE00000000000007FE
+t1337833662
+s2046
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../ViewController.xib
+c0000000050A3073800000000000056F2
+t1352861496
+s22258
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppDelegate.m
+c000000004FB917CE0000000000000B1D
+t1337530318
+s2845
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m
+c000000004F961A8E0000000000000871
+t1335237262
+s2161
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib
+c000000004FC56FF80000000000005DB3
+t1338339320
+s23987
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomPin.m
+c000000004F5D4AA800000000000001BD
+t1331514024
+s445
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m
+c000000004F89B4F600000000000017BC
+t1334424822
+s6076
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m
+c000000004F899A8800000000000001C7
+t1334418056
+s455
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.m
+c000000004F956CAE00000000000005AA
+t1335192750
+s1450
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib
+c000000004F956B38000000000000837E
+t1335192376
+s33662
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m
+c000000004F8E0B70000000000000027B
+t1334709104
+s635
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib
+c000000004F8F26580000000000003A7C
+t1334781528
+s14972
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m
+c000000004F7D0E66000000000000012F
+t1333595750
+s303
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/PhoneBook.m
+c000000004FBD5AA40000000000000A5F
+t1337809572
+s2655
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/Settings.bundle
+c000000004FB917CE0000000000000088
+t1337530318
+s136
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m
+c000000004FBDBB78000000000000085F
+t1337834360
+s2143
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/ViewController.m
+c0000000050F3798A0000000000005DAC
+t1358133642
+s23980
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/WhereYouApp-Prefix.pch
+c000000004F8DD68C0000000000000145
+t1334695564
+s325
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m
+c000000004F88D6D60000000000001576
+t1334367958
+s5494
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/en.lproj/InfoPlist.strings
+c000000004F8DD68C000000000000002D
+t1334695564
+s45
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/main.m
+c000000004F8DD68C000000000000015D
+t1334695564
+s349
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/alert_background.png
+c000000004FBC4738000000000000238D
+t1337739064
+s9101
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/alert_button.png
+c000000004FBC4742000000000000143C
+t1337739074
+s5180
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/behind_alert_view.png
+c000000004FBC46FE00000000000057C9
+t1337739006
+s22473
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/call.png
+c000000004F86EC8E00000000000000C7
+t1334242446
+s199
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/calloutShare.png
+c000000004F86EC900000000000000190
+t1334242448
+s400
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/clear.png
+c000000004F86EC8E000000000000018B
+t1334242446
+s395
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/directions.png
+c000000004F86EC8C00000000000001E4
+t1334242444
+s484
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/share.png
+c000000004F86EC8E00000000000001D8
+t1334242446
+s472
+
+N/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/showUser.png
+c000000004F86EC900000000000000139
+t1334242448
+s313
+
+NWhereYouApp/WhereYouApp-Info.plist
+c000000004FC5768E000000000000067D
+t1338341006
+s1661
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppDelegate.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomPin.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/PhoneBook.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/ViewController.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m
+r0
+
+CBuild AST from /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbaa19913b1a3b641^1a6bcb13b1a3b641^---0#1#0#--18"Check dependencies36"255B21C0-481E-486B-A088-84D5E7C04967-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppDelegate.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826454.462688
+e379826454.924872
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppDelegate.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppDelegate.m94a17616b1a3b641^a22aee16b1a3b641^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppDelegate.m0000000000000000^4065"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppDelegate.o WhereYouApp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppDelegate.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppDelegate.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppDelegate.o36"86FFAF8D-85AD-4083-B7E3-707F211184D6-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppLocationManager.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826454.857155
+e379826454.944356
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppLocationManager.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m779fdb16b1a3b641^b2d5f116b1a3b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m0000000000000000^4107"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppLocationManager.o WhereYouApp/AppLocationManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppLocationManager.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppLocationManager.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/AppLocationManager.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/AppLocationManager.o36"D53BF1A1-67AF-4644-BC2A-A856CED0153F-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomAlertView.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826455.499005
+e379826455.608534
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomAlertView.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.me1ef7f17b1a3b641^04c99b17b1a3b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m0000000000000000^4095"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomAlertView.o WhereYouApp/../CustomAlertView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomAlertView.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomAlertView.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../CustomAlertView.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomAlertView.o36"7B9CAF0C-49FA-422A-B65B-C211E99202E8-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomPin.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomPin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826454.931166
+e379826454.994307
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomPin.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomPin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomPin.m3e96ee16b1a3b641^e59afe16b1a3b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomPin.m0000000000000000^4053"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomPin.o WhereYouApp/CustomPin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomPin.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomPin.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomPin.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/CustomPin.o36"BE55590B-FC51-42FD-8CC5-DB089737AA72-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleMapSearchObject.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826454.945707
+e379826455.092743
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleMapSearchObject.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m3d49f216b1a3b641^a2cf1717b1a3b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m0000000000000000^4125"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleMapSearchObject.o WhereYouApp/GoogleMapSearchObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleMapSearchObject.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleMapSearchObject.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleMapSearchObject.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleMapSearchObject.o36"1F37EBED-5E10-4793-AEE6-EE526A9F3149-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleResultPin.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826454.995577
+e379826455.057658
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleResultPin.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m520dff16b1a3b641^77f80f17b1a3b641^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m0000000000000000^4089"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleResultPin.o WhereYouApp/GoogleResultPin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleResultPin.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleResultPin.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/GoogleResultPin.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/GoogleResultPin.o36"828E1A24-8BE6-4A4D-96A2-1590E0088E3F-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/InfoViewController.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826455.406480
+e379826455.497636
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/InfoViewController.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.mfe456817b1a3b641^13657f17b1a3b641^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.m0000000000000000^4107"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/InfoViewController.o WhereYouApp/InfoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/InfoViewController.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/InfoViewController.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/InfoViewController.o36"04798A9D-04B8-4CCE-A433-45F576031DDA-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/LocationTableViewCell.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826455.319030
+e379826455.404501
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/LocationTableViewCell.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m48de5117b1a3b641^d49d6717b1a3b641^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m0000000000000000^4125"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/LocationTableViewCell.o WhereYouApp/LocationTableViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/LocationTableViewCell.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/LocationTableViewCell.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/LocationTableViewCell.o36"A113A2AE-4686-4F11-BBEA-096A4F9ACFB8-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/MyLocationObject.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826455.062973
+e379826455.107711
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/MyLocationObject.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/MyLocationObject.mc24f1017b1a3b641^caa31b17b1a3b641^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m0000000000000000^4095"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/MyLocationObject.o WhereYouApp/MyLocationObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/MyLocationObject.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/MyLocationObject.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/MyLocationObject.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/MyLocationObject.o36"3B25389E-AD71-40C1-AA7F-BD09DCC2616F-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/PhoneBook.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/PhoneBook.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826455.094270
+e379826455.146683
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/PhoneBook.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/PhoneBook.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/PhoneBook.mda551817b1a3b641^4e7f2a17b1a3b641^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/PhoneBook.m0000000000000000^4053"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/PhoneBook.o WhereYouApp/PhoneBook.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/PhoneBook.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/PhoneBook.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/PhoneBook.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/PhoneBook.o36"04F5BFDA-8A1A-4C0D-9B6C-AFD463DA714A-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/UIView+AlertAnimations.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826455.446695
+e379826455.592527
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/UIView+AlertAnimations.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m6e8b7217b1a3b641^a9c29717b1a3b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m0000000000000000^4131"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/UIView+AlertAnimations.o WhereYouApp/UIView+AlertAnimations.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/UIView+AlertAnimations.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/UIView+AlertAnimations.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/UIView+AlertAnimations.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/UIView+AlertAnimations.o36"61E3C6F3-D2B0-469D-A082-108CD491DE28-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/ViewController.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826455.115685
+e379826455.445418
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/ViewController.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/ViewController.m31d01d17b1a3b641^f8167217b1a3b641^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/ViewController.m0000000000000000^4083"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/ViewController.o WhereYouApp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/ViewController.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/ViewController.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/ViewController.o36"1C3127C6-BCEB-48A7-84A8-808852869A85-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/YahooLocalSearchObject.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826455.240825
+e379826455.317702
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/YahooLocalSearchObject.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m49d63d17b1a3b641^ae665117b1a3b641^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m0000000000000000^4131"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/YahooLocalSearchObject.o WhereYouApp/YahooLocalSearchObject.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/YahooLocalSearchObject.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/YahooLocalSearchObject.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/YahooLocalSearchObject.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/YahooLocalSearchObject.o36"B4DE0B69-D883-4765-BC74-473AEA07438A-
+
+CCompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/main.o /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826454.462226
+e379826454.855781
+r1
+xCompileC
+xDerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/main.o
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/main.m16847616b1a3b641^4414db16b1a3b641^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/main.m0000000000000000^4023"CompileC DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/main.o WhereYouApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -include /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/main.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/main.m -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/main.o36"0FDE6727-BB1C-4D46-A7FC-64C0E4E5836E-
+
+CCompileXIB /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../ViewController.xib
+s379826457.016118
+e379826458.598138
+r1
+xCompileXIB
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../ViewController.xib
+o2013-01-13 22:20:57.564 Interface Builder Cocoa Touch Tool[10952:18303] ADDRESPONSE - ADDING TO MEMORY ONLY: http://gsp1.apple.com/pep/gcc
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compiling /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../ViewController.xibf8370419b1a3b641^dd40991ab1a3b641^-138"2013-01-13 22:20:57.564 Interface Builder Cocoa Touch Tool[10952:18303] ADDRESPONSE - ADDING TO MEMORY ONLY: http://gsp1.apple.com/pep/gcc-0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../ViewController.xib0000000000000000^938"CompileXIB WhereYouApp/../ViewController.xib    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/ViewController.nib /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/../ViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"92BCB383-A5EF-4998-BABE-E1ACDC9877C8-
+
+CCompileXIB /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib
+s379826458.784125
+e379826458.867470
+r1
+xCompileXIB
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compiling /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xibdbe0c81ab1a3b641^2c2ede1ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib0000000000000000^935"CompileXIB WhereYouApp/CustomAlertView.xib    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/CustomAlertView.nib /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/CustomAlertView.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"F3ED1B4A-898A-47BB-B1AB-CBAD3E68C913-
+
+CCompileXIB /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib
+s379826458.672199
+e379826458.773745
+r1
+xCompileXIB
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compiling /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.xibd72fac1ab1a3b641^4f90c81ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib0000000000000000^944"CompileXIB WhereYouApp/InfoViewController.xib    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/InfoViewController.nib /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/InfoViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"EF3EB61C-D669-4919-9361-E8914A6E75B4-
+
+CCompileXIB /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib
+s379826457.040551
+e379826458.598519
+r1
+xCompileXIB
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib
+o2013-01-13 22:20:58.183 Interface Builder Cocoa Touch Tool[11006:14603] CFPreferences: user home directory at file://localhost/Users/Gabriel/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compiling /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib037d0a19b1a3b641^bb44991ab1a3b641^-242"2013-01-13 22:20:58.183 Interface Builder Cocoa Touch Tool[11006:14603] CFPreferences: user home directory at file://localhost/Users/Gabriel/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib0000000000000000^953"CompileXIB WhereYouApp/LocationTableViewCell.xib    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/LocationTableViewCell.nib /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/LocationTableViewCell.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"9A434635-B6B0-4AC2-BFC8-938347434229-
+
+CCopyStringsFile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/en.lproj/InfoPlist.strings WhereYouApp/en.lproj/InfoPlist.strings
+s379826457.015477
+e379826457.039301
+r1
+xCopyStringsFile
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/en.lproj/InfoPlist.strings
+xWhereYouApp/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy WhereYouApp/en.lproj/InfoPlist.strings88130419b1a3b641^691c0a19b1a3b641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/en.lproj/InfoPlist.strings0000000000000000^657"CopyStringsFile DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/en.lproj/InfoPlist.strings WhereYouApp/en.lproj/InfoPlist.strings    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/en.lproj -- WhereYouApp/en.lproj/InfoPlist.strings36"DBC9B2A5-0406-43A2-A50A-F658827DB09F-
+
+CCpResource Default.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default.png
+s379826458.718878
+e379826458.730098
+r1
+xCpResource
+xDefault.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default.png9a22b81ab1a3b641^51f6ba1ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default.png000000000080d041^758"CpResource Default.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/Default.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"11A9C834-C754-4142-9B85-49DA493A92B7-
+
+CCpResource Default@2x.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default@2x.png
+s379826458.600109
+e379826458.665991
+r1
+xCpResource
+xDefault@2x.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default@2x.png24b8991ab1a3b641^2e8eaa1ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default@2x.png000000000080d041^773"CpResource "Default@2x.png" "DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Default@2x.png"    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/Gabriel/Desktop/iOS/WhereYouApp/Default@2x.png" /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"CCF928AE-057D-44A8-8E36-B5F5606A917D-
+
+CCpResource WhereYou@ppIcon.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppIcon.png
+s379826458.599352
+e379826458.616699
+r1
+xCpResource
+xWhereYou@ppIcon.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppIcon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppIcon.png758e991ab1a3b641^89ee9d1ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppIcon.png000000000080d041^788"CpResource "WhereYou@ppIcon.png" "DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppIcon.png"    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYou@ppIcon.png" /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"1975FC4A-B7DB-4681-8E1F-9842D8C488BE-
+
+CCpResource WhereYou@ppSmallIcon.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppSmallIcon.png
+s379826458.672807
+e379826458.717600
+r1
+xCpResource
+xWhereYou@ppSmallIcon.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppSmallIcon.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppSmallIcon.png4754ac1ab1a3b641^84d6b71ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppSmallIcon.png000000000080d041^803"CpResource "WhereYou@ppSmallIcon.png" "DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYou@ppSmallIcon.png"    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYou@ppSmallIcon.png" /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"221A5BD4-89C8-4CE9-A800-98A0000BF435-
+
+CCpResource WhereYouApp/Settings.bundle DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Settings.bundle
+s379826458.731373
+e379826458.734821
+r1
+xCpResource
+xWhereYouApp/Settings.bundle
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Settings.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Settings.bundle8257bb1ab1a3b641^2027bc1ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Settings.bundle000000000080d041^794"CpResource WhereYouApp/Settings.bundle DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Settings.bundle    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/Settings.bundle /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"8DDD075B-8637-4D13-A1C5-2930C4592C3A-
+
+CCpResource WhereYouAppIcons/alert_background.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_background.png
+s379826458.759986
+e379826458.810306
+r1
+xCpResource
+xWhereYouAppIcons/alert_background.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_background.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_background.pngb4adc21ab1a3b641^d4d7cf1ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_background.png000000000080d041^819"CpResource WhereYouAppIcons/alert_background.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_background.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/alert_background.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"31EB7F2F-DBC3-4966-9C07-8CC956D1FB45-
+
+CCpResource WhereYouAppIcons/alert_button.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_button.png
+s379826458.812118
+e379826458.858509
+r1
+xCpResource
+xWhereYouAppIcons/alert_button.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_button.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_button.pngc900d01ab1a3b641^3accdb1ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_button.png000000000080d041^807"CpResource WhereYouAppIcons/alert_button.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/alert_button.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/alert_button.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"BD44E950-8123-48F6-880D-E98A8E821E8F-
+
+CCpResource WhereYouAppIcons/behind_alert_view.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/behind_alert_view.png
+s379826458.736071
+e379826458.739491
+r1
+xCpResource
+xWhereYouAppIcons/behind_alert_view.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/behind_alert_view.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/behind_alert_view.png0989bc1ab1a3b641^f0bfc51ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/behind_alert_view.png000000000080d041^822"CpResource WhereYouAppIcons/behind_alert_view.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/behind_alert_view.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/behind_alert_view.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"BD7F0D1A-9B7D-4CA6-B5B6-6DB1A4C3C19B-
+
+CCpResource WhereYouAppIcons/call.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/call.png
+s379826458.664553
+e379826458.670924
+r1
+xCpResource
+xWhereYouAppIcons/call.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/call.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/call.png363baa1ab1a3b641^c2dbab1ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/call.png000000000080d041^783"CpResource WhereYouAppIcons/call.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/call.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/call.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"51ACE151-14B4-4EA3-A7F3-C757A6406003-
+
+CCpResource WhereYouAppIcons/calloutShare.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/calloutShare.png
+s379826458.668066
+e379826458.671758
+r1
+xCpResource
+xWhereYouAppIcons/calloutShare.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/calloutShare.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/calloutShare.pnga720ab1ab1a3b641^4300ac1ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@148"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/calloutShare.png000000000080d041^807"CpResource WhereYouAppIcons/calloutShare.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/calloutShare.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/calloutShare.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"39C3C2D8-C38A-4AA9-A89B-36F0F4BCE238-
+
+CCpResource WhereYouAppIcons/clear.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/clear.png
+s379826458.617972
+e379826458.629170
+r1
+xCpResource
+xWhereYouAppIcons/clear.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/clear.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/clear.pnge84c9e1ab1a3b641^211ea11ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/clear.png000000000080d041^786"CpResource WhereYouAppIcons/clear.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/clear.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/clear.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"0FC9BA6B-0BDA-4201-876A-1F327FBFF10C-
+
+CCpResource WhereYouAppIcons/directions.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/directions.png
+s379826458.630434
+e379826458.640101
+r1
+xCpResource
+xWhereYouAppIcons/directions.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/directions.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/directions.pngfe7ea11ab1a3b641^cf48a41ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/directions.png000000000080d041^801"CpResource WhereYouAppIcons/directions.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/directions.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/directions.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"CBBB47A6-403D-425F-9A2F-C4DE98FA46D5-
+
+CCpResource WhereYouAppIcons/share.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/share.png
+s379826458.644604
+e379826458.655471
+r1
+xCpResource
+xWhereYouAppIcons/share.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/share.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/share.png1c23a51ab1a3b641^62daa71ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/share.png000000000080d041^786"CpResource WhereYouAppIcons/share.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/share.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/share.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"05F3E861-6EE6-43CF-9370-41438A01DBA8-
+
+CCpResource WhereYouAppIcons/showUser.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/showUser.png
+s379826458.656730
+e379826458.663264
+r1
+xCpResource
+xWhereYouAppIcons/showUser.png
+xDerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/showUser.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/showUser.png4a40a81ab1a3b641^62d8a91ab1a3b641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/showUser.png000000000080d041^795"CpResource WhereYouAppIcons/showUser.png DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/showUser.png    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouAppIcons/showUser.png /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"F9624E5B-75B9-444A-9B3E-56086B4C03B3-
+
+CGenerateDSYMFile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app.dSYM /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp
+s379826456.681438
+e379826457.007261
+r1
+xGenerateDSYMFile
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app.dSYM
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generating /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app.dSYMe78eae18b1a3b641^f8e00119b1a3b641^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app.dSYM000000000080d041^781"GenerateDSYMFile DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app.dSYM DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app.dSYM36"32429618-6960-4A07-894D-3EE944E87BDF-
+
+CLd /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp normal i386
+s379826455.615270
+e379826456.674521
+r1
+xLd
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouAppc5aa9d17b1a3b641^bcb1ac18b1a3b641^---0#0#0#--1478"Ld DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp normal i386    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv IPHONEOS_DEPLOYMENT_TARGET 5.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator -filelist /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/Objects-normal/i386/WhereYouApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.1 -framework QuartzCore -framework MessageUI -framework MapKit -framework CoreLocation -framework AddressBookUI -framework AddressBook -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/WhereYouApp36"5CE4FBCA-9050-4E96-85DA-10DA4D645FF9-
+
+CProcessInfoPlistFile /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Info.plist WhereYouApp/WhereYouApp-Info.plist
+s379826451.872286
+e379826451.909099
+r1
+xProcessInfoPlistFile
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Info.plist
+xWhereYouApp/WhereYouApp-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process WhereYouApp/WhereYouApp-Info.plistd0d5e613b1a3b641^cadce813b1a3b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/WhereYouApp-Info.plist0000000000000000^777"ProcessInfoPlistFile DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Info.plist WhereYouApp/WhereYouApp-Info.plist    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility WhereYouApp/WhereYouApp-Info.plist -genpkginfo /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app/Info.plist36"09140C26-887E-4D24-80E8-6968BCF82EF7-
+
+CProcessPCH /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch.pth WhereYouApp/WhereYouApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379826451.917412
+e379826454.455166
+r1
+xProcessPCH
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch.pth
+xWhereYouApp/WhereYouApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile WhereYouApp/WhereYouApp-Prefix.pch7d58eb13b1a3b641^f9847416b1a3b641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/WhereYouApp-Prefix.pch0000000000000000^3914"ProcessPCH DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch.pth WhereYouApp/WhereYouApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=5.1 -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-generated-files.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-own-target-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-all-target-headers.hmap -iquote /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/WhereYouApp-project-headers.hmap -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources/i386 -I/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/WhereYouApp.build/Debug-iphonesimulator/WhereYouApp.build/DerivedSources -F/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch.dia -c /Users/Gabriel/Desktop/iOS/WhereYouApp/WhereYouApp/WhereYouApp-Prefix.pch -o /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch.pth -MMD -MT dependencies -MF /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Intermediates/PrecompiledHeaders/WhereYouApp-Prefix-ayhwdlphhfppnvdsxxhyeyxkiuzv/WhereYouApp-Prefix.pch.d36"C3DD2C49-6EEF-4CA2-88F1-5C253EAEE139-
+
+CProcessPCH /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Index/PrecompiledHeaders/WhereYouApp-Prefix-dyxdlspzvrqelwagneolslvywbzr_ast/WhereYouApp-Prefix.pch.pth WhereYouApp/WhereYouApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app
+s379826458.878834
+e379826458.897825
+r1
+xTouch
+x/Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Touch /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app9816e11ab1a3b641^a8e3e51ab1a3b641^---0#0#0#--462"Touch DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app    cd /Users/Gabriel/Desktop/iOS/WhereYouApp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Gabriel/Desktop/iOS/WhereYouApp/DerivedData/WhereYouApp/Build/Products/Debug-iphonesimulator/WhereYouApp.app36"2DE3149E-8ED6-4AF5-92CA-C102B396F6F5-
+

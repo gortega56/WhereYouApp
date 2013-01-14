@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>FoundWorkingCopyPaths</key>
-	<array/>
+	<array>
+		<string>/Users/Gabriel/Desktop/iOS/WhereYouApp</string>
+	</array>
 	<key>LastWorkingCopyScanDate</key>
-	<date>2012-11-14T11:33:41Z</date>
+	<date>2013-01-14T03:20:35Z</date>
 	<key>Version</key>
 	<integer>3</integer>
 </dict>
